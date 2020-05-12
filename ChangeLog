@@ -1,3 +1,8 @@
+2020-05-12  Boyuan Yang <073plan@gmail.com>
+
+	* Replace old fileutils ln(1) with coreutils ln(1).
+	* Replace old bsdutils kill(1) with coreutils kill(1).
+
 2020-05-09  Boyuan Yang <073plan@gmail.com>
 
 	* Import translation for coreutils 8.32:
