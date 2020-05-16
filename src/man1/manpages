@@ -160,6 +160,7 @@ MANPAGES = \
 	pinky.1 \
 	postgres.1 \
 	postmaster.1 \
+	pr.1 \
 	printenv.1 \
 	printf.1 \
 	psfaddtable.1 \

@@ -1,6 +1,7 @@
 2020-05-14  Boyuan Yang <073plan@gmail.com>
 
 	* Add coreutils 8.32 translation: od(1).
+	* Add coreutils 8.32 translation: pr(1).
 
 2020-05-12  Boyuan Yang <073plan@gmail.com>
 
@@ -15,6 +16,7 @@
 	* Add COPYRIGHT file for per-file license info.
 	* Add utils/gen-manpage-listfile script to automatically
 	  generate src/man*/manpages file.
+	* Release 1.6.3.4.
 
 2018-05-18  Boyuan Yang <073plan@gmail.com>
 
