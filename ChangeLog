@@ -1,6 +1,7 @@
 2020-05-20  Boyuan Yang <073plan@gmail.com>
 
-	* Minor fix on console_codes(4). (issue #19)
+	* Minor fix on console_codes(4).
+	  Closes: https://github.com/manpages-zh/manpages_zh/pull/19
 
 2020-05-14  Boyuan Yang <073plan@gmail.com>
 
