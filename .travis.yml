@@ -1,3 +1,6 @@
+arch:
+  - amd64
+  - ppc64le
 install:
   - sudo apt-get install zh-autoconvert autoconf automake
 script:
